@@ -15,5 +15,29 @@
     "styled-components": "^5.3.1",
     "use-local-storage": "^2.2.4",
     "vite": "^2.5.10"
-  }
+  },
+  "name": "build-space-tutorial-1",
+  "description": "Welcome to the world of Ethereum and web3! This is a beta template for Solidity development on Replit. Solidity is the language used to create Smart Contracts, which are programs that run on the Ethereum Blockchain.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {
+    "hardhat": "^2.6.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylhgr/Web3-Application-Eth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylhgr/Web3-Application-Eth/issues"
+  },
+  "homepage": "https://github.com/kylhgr/Web3-Application-Eth#readme"
 }
